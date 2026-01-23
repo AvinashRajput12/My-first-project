@@ -5,15 +5,16 @@ function Home() {
     <div style={styles.bg}>
       <div style={styles.overlay}>
         <div style={styles.container}>
-          <h1 style={styles.heading}>About Me</h1>
+          <h1 style={styles.heading}>🌐 Website Description</h1>
 
           <p style={styles.text}>
-            My name is <strong>Avinash Chauhan</strong>. I am 20 years old and I am
-            from <strong>Azamgarh</strong>. Currently, I am pursuing my graduation.
-            I am a web developer with strong knowledge of front-end and back-end
-            technologies. I have hands-on experience with React.js, JavaScript,
-            HTML, CSS, Node.js, and Python. I enjoy building user-friendly web
-            applications and continuously improving my technical skills.
+           
+
+            This website is a personal portfolio designed to showcase my skills, projects, and passion for web development. Built using modern web technologies, it focuses on clean design, smooth user experience, and responsive layouts across all devices.
+
+            The website highlights my expertise in React.js, JavaScript, HTML, CSS, Node.js, and Python, along with a brief introduction about who I am and what I do. Each section is carefully structured to reflect my creativity, technical knowledge, and dedication to building fast, scalable, and user-friendly web applications.
+
+            Whether you're a client, recruiter, or fellow developer, this website serves as a one-stop place to explore my work, understand my skill set, and connect with me professionally
           </p>
 
           <p style={styles.text}>

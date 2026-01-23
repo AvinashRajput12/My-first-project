@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from './components/Navbar'
 import Form from './components/Form'
-import About from './components/Home'
+import About from './components/About'
 import Contact from './components/Contact'
 import Home from './components/Home'
 import { Routes, Route } from "react-router-dom";
