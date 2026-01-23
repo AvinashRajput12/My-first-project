@@ -14,8 +14,8 @@ function Contact() {
 
           <div style={styles.infoBox}>
             <p><strong>📍 Location:</strong> Azamgarh, India</p>
-            <p><strong>📧 Email:</strong> avinash@example.com</p>
-            <p><strong>📞 Phone:</strong> +91 XXXXXXXXXX</p>
+            <p><strong>📧 Email:</strong> rajputavinash889977@gmail.com</p>
+            <p><strong>📞 Phone:</strong> +91 7905282999</p>
           </div>
 
           <div style={styles.social}>
